@@ -6,17 +6,17 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jan 2017 22:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2017 22:09:13 -0600</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GitHub 博客简明使用指南</title>
-      <link>/2017/01/18/github-%E5%8D%9A%E5%AE%A2%E7%AE%80%E6%98%8E%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</link>
-      <pubDate>Wed, 18 Jan 2017 22:48:00 +0000</pubDate>
+      <title>GitHub Blog</title>
+      <link>/2017/01/18/github-blog/</link>
+      <pubDate>Wed, 18 Jan 2017 22:09:13 -0600</pubDate>
       
-      <guid>/2017/01/18/github-%E5%8D%9A%E5%AE%A2%E7%AE%80%E6%98%8E%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</guid>
+      <guid>/2017/01/18/github-blog/</guid>
       <description>GitHub Pages 是 GitHub 所提供的一个博客系统。现在使用这一服务的用户随着 GitHub 网站的壮大而益发普及开来。
 让我们忽略 GitHub 被国内网友戏称为「世界上最大的同性（程序猿们）社交网站&amp;hellip;」这样的事……
 本文初衷 关于 GitHub 博客的具体搭建，下次会专门写一篇博文。这次就先略过，只说使用。
