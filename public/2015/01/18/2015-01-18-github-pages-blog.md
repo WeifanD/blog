@@ -1,7 +1,7 @@
 ---
 title: GitHub Blog
 layout: post
-date: 2017-01-18T22:09:13-06:00
+date: 2015-01-18T22:09:13-06:00
 ---
 
 GitHub Pages 是 GitHub 所提供的一个博客系统。现在使用这一服务的用户随着 GitHub 网站的壮大而益发普及开来。
