@@ -1,7 +1,7 @@
 ---
 title: GitHub 博客简明使用指南
 layout: post
-date: 2017-01-18 22:48
+date: 2017-01-18T22:48:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
