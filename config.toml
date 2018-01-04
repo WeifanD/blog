@@ -1,4 +1,4 @@
-baseurl = "https://github.com/WeifanD"
+baseurl = "/"
 languageCode = "en-us"
 title = "HELLO"
 theme = "hugo-lithium-theme"
